@@ -1,0 +1,19 @@
+﻿<Window x:Class="GoTWPF.View.Viewer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GoTWPF.View"
+        mc:Ignorable="d"
+        Title="House Viewer" Loaded="Window_Loaded"  WindowState="Maximized" Height="300" Width="300">
+    
+    <StackPanel>
+        <DockPanel Margin="10" Height="30">
+            <Button HorizontalAlignment="Left" Content="Add" Click="AddBtnClicked" />
+        </DockPanel>
+        <Grid>
+            <local:ListHousesView x:Name="ucHouses"/>
+        </Grid>
+    </StackPanel>
+    
+</Window>

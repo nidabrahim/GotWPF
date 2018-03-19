@@ -1,0 +1,39 @@
+﻿<Window x:Class="GoTWPF.Data"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DataGrid" Height="300" Width="300" WindowState="Maximized" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <DataGrid Name="dataNormalGrid" AutoGenerateColumns="False" Grid.RowSpan="2">
+
+            <DataGrid.Columns>
+
+                <DataGridTemplateColumn Header="Name" Width="Auto" >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Path=Name}"></TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn Header="Number Of Unities" Width="Auto" >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Path=NumberOfUnities}"></TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                
+               <!-- <DataGridTextColumn Header="City" Binding="{Binding Path=EmpCity}" ></DataGridTextColumn>-->
+            </DataGrid.Columns>
+        </DataGrid>
+        
+ 
+        
+    </Grid>
+</Window>
+

@@ -1,0 +1,67 @@
+c:\users\yonidabrah\documents\visual studio 2015\Projects\GoTWPF\GoTWPF\bin\Debug\GoTWPF.exe.config
+c:\users\yonidabrah\documents\visual studio 2015\Projects\GoTWPF\GoTWPF\bin\Debug\GoTWPF.exe
+c:\users\yonidabrah\documents\visual studio 2015\Projects\GoTWPF\GoTWPF\bin\Debug\GoTWPF.pdb
+c:\users\yonidabrah\documents\visual studio 2015\Projects\GoTWPF\GoTWPF\obj\Debug\GoTWPF.csprojResolveAssemblyReference.cache
+c:\users\yonidabrah\documents\visual studio 2015\Projects\GoTWPF\GoTWPF\obj\Debug\MainWindow.g.cs
+c:\users\yonidabrah\documents\visual studio 2015\Projects\GoTWPF\GoTWPF\obj\Debug\App.g.cs
+c:\users\yonidabrah\documents\visual studio 2015\Projects\GoTWPF\GoTWPF\obj\Debug\GoTWPF_MarkupCompile.cache
+c:\users\yonidabrah\documents\visual studio 2015\Projects\GoTWPF\GoTWPF\obj\Debug\GoTWPF_MarkupCompile.lref
+c:\users\yonidabrah\documents\visual studio 2015\Projects\GoTWPF\GoTWPF\obj\Debug\MainWindow.baml
+c:\users\yonidabrah\documents\visual studio 2015\Projects\GoTWPF\GoTWPF\obj\Debug\GoTWPF.g.resources
+c:\users\yonidabrah\documents\visual studio 2015\Projects\GoTWPF\GoTWPF\obj\Debug\GoTWPF.Properties.Resources.resources
+c:\users\yonidabrah\documents\visual studio 2015\Projects\GoTWPF\GoTWPF\obj\Debug\GoTWPF.csproj.GenerateResource.Cache
+c:\users\yonidabrah\documents\visual studio 2015\Projects\GoTWPF\GoTWPF\obj\Debug\GoTWPF.exe
+c:\users\yonidabrah\documents\visual studio 2015\Projects\GoTWPF\GoTWPF\obj\Debug\GoTWPF.pdb
+C:\Users\yonidabrah\Documents\Visual Studio 2015\Projects\GoTWPF\GoTWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yonidabrah\Documents\Visual Studio 2015\Projects\GoTWPF\GoTWPF\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\yonidabrah\Documents\Visual Studio 2015\Projects\GoTWPF\GoTWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yonidabrah\Documents\Visual Studio 2015\Projects\GoTWPF\GoTWPF\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\bin\Debug\GoTWPF.exe.config
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\bin\Debug\GoTWPF.exe
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\bin\Debug\GoTWPF.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\bin\Debug\ControlzEx.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\bin\Debug\ControlzEx.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\GoTWPF.csprojResolveAssemblyReference.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\Data.baml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\Data.g.cs
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\MainWindow.g.cs
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\MenuPrincipal.g.cs
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\App.g.cs
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\GoTWPF_MarkupCompile.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\GoTWPF_MarkupCompile.lref
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\App.baml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\MainWindow.baml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\MenuPrincipal.baml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\GoTWPF.g.resources
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\GoTWPF.Properties.Resources.resources
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\GoTWPF.csproj.GenerateResource.Cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\GoTWPF.csproj.CoreCompileInputs.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\GoTWPF.exe
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\GoTWPF.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\DataCharacters.baml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\DataCharacters.g.cs
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\CharacterViewer.g.cs
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\Viewer.g.cs
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\ListCharactersView.g.cs
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\ListHousesView.g.cs
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\CharacterViewer.baml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\ListCharactersView.baml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\ListHousesView.baml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\Viewer.baml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\FormCharacterViewer.g.cs
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\FormHouseViewer.g.cs
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\CharacterView.g.cs
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\HouseView.g.cs
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\FormCharacterViewer.baml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\FormHouseViewer.baml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\CharacterView.baml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\TP\Wpf\GoTWPF\GoTWPF\obj\Debug\View\HouseView.baml
